@@ -11,6 +11,7 @@ export default class Users extends Component{
 
     state={
         getUsers:[],
+        data:[],
     }
 
     componentDidMount(){
